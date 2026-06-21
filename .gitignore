@@ -8,3 +8,27 @@
 .vscode/ipch/
 .vscode/.browse.VC.db
 .vscode/Browse.VC.db
+
+# Visual Studio
+.vs/
+x64/
+Win32/
+Debug/
+Release/
+*.user
+*.suo
+*.ilk
+*.pdb
+*.idb
+*.iobj
+*.ipdb
+*.tlog
+*.recipe
+*.log
+*.lib
+*.VC.db
+*.VC.opendb
+ipch/
+**/x64/
+**/Debug/
+**/Release/
